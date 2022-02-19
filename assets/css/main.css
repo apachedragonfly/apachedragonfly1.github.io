@@ -1913,7 +1913,6 @@ a.tag:hover {
 .navbar {
   min-height: 3.25rem;
   position: relative;
-  float: left;
   z-index: 30; }
   .navbar.is-white {
     background-color: var(--bg-main);
@@ -2474,7 +2473,7 @@ a.navbar-item,
   .navbar-item img {
     max-height: 1.75rem; }
   .navbar-item.has-dropdown {
-    padding: 0; }
+    padding: auto; }
   .navbar-item.is-expanded {
     flex-grow: 1;
     flex-shrink: 1; }
