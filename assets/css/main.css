@@ -2560,7 +2560,7 @@ a.navbar-item,
   .navbar-menu,
   .navbar-start,
   .navbar-end {
-    align-items: stretch;
+    align-items: center;
     display: flex; }
   .navbar {
     min-height: 3.25rem; }
