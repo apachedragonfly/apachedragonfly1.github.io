@@ -29,8 +29,12 @@
   width: 0.625em; }
 
 .navbar-item {
-  width: auto;
-  height: auto;
+  width: 173px;
+  height: 23px;
+}
+
+.logo {
+  position: relative;
 }
 
 .box-feed:not(:last-child), .content:not(:last-child), .table:not(:last-child), .table-container:not(:last-child), .title:not(:last-child),
