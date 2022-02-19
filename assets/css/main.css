@@ -1913,6 +1913,8 @@ a.tag:hover {
 .navbar {
   min-height: 3.25rem;
   position: relative;
+  display: block;
+  float: none;
   z-index: 30; }
   .navbar.is-white {
     background-color: var(--bg-main);
