@@ -2449,7 +2449,7 @@ body.has-navbar-fixed-bottom {
   color: var(--text-main);
   display: block;
   line-height: 1.5;
-  padding: 0.5rem 0.75rem;
+  padding: 1.0rem 1.0rem;
   position: relative; }
   .navbar-item .icon:only-child,
   .navbar-link .icon:only-child {
@@ -2612,7 +2612,7 @@ a.navbar-item,
     flex-grow: 1;
     flex-shrink: 0; }
   .navbar-start {
-    justify-content: center;
+    justify-content: flex-start;
     margin-right: auto; }
   .navbar-end {
     justify-content: flex-end;
