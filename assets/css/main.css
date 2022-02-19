@@ -2442,14 +2442,14 @@ body.has-navbar-fixed-bottom {
     transform: translateY(-5px) rotate(-45deg); }
 
 .navbar-menu {
-  display: none; }
+  display: block; }
 
 .navbar-item,
 .navbar-link {
   color: var(--text-main);
   display: block;
   line-height: 1.5;
-  padding: 1.0rem 1.0rem;
+  padding: 0.5rem 0.75rem;
   position: relative; }
   .navbar-item .icon:only-child,
   .navbar-link .icon:only-child {
