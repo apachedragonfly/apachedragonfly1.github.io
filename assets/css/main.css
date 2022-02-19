@@ -2612,7 +2612,7 @@ a.navbar-item,
     flex-grow: 1;
     flex-shrink: 0; }
   .navbar-start {
-    justify-content: flex-start;
+    justify-content: center;
     margin-right: auto; }
   .navbar-end {
     justify-content: flex-end;
